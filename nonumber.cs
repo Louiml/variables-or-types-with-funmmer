@@ -1,4 +1,4 @@
-private int binarySearch(int[] arr, int n, int key)
+private int nonumber(int[] arr, int n, int key)
 {
 	int low = 0;
 	int high = n - 1;
