@@ -15,5 +15,11 @@
 <img alt="Rust" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" height=50 >
 <img alt="JavaScript" src="https://i.pinimg.com/736x/5a/10/dc/5a10dc26f67f4217c22136dbd69dbc47--javascript-sticker.jpg" height=50 >
 <img alt="Lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" height=50 >
-  <h2> C C++ C# visual basic .net Go Ruby Shell/Bash Swift CoffeeScript Beef Java Rust JavaScript Lua </h2>
+  <h2></h2>
+</div>
+<h1 align="center">Anyone who has an idea is welcome to talk to me on:</h1>
+<div align="center">
+<p>on Discord: <a href="https://discord.com/users/782591039256920074"><img src="https://cdn.discordapp.com/avatars/782591039256920074/6a563b0be30e6916bb15eaa156bd1c63.webp?size=24">Loui</a></p>
+<p>on Twitter <a href="https://twitter.com/louiml_net"><img src="https://cdn.discordapp.com/avatars/782591039256920074/6a563b0be30e6916bb15eaa156bd1c63.webp?size=24">louiml_net</a></p>
+<p>on Tiktok <a><img src="https://cdn.discordapp.com/avatars/782591039256920074/6a563b0be30e6916bb15eaa156bd1c63.webp?size=24">Soon...</a></p>
 </div>
