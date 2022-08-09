@@ -15,4 +15,5 @@
 <img alt="Rust" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" height=50 >
 <img alt="JavaScript" src="https://i.pinimg.com/736x/5a/10/dc/5a10dc26f67f4217c22136dbd69dbc47--javascript-sticker.jpg" height=50 >
 <img alt="Lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" height=50 >
+  <h2> C C++ C# visual basic .net Go Ruby Shell/Bash Swift CoffeeScript Beef Java Rust JavaScript Lua </h2>
 </div>
